@@ -7,5 +7,5 @@
 .. toctree::
     :maxdepth: 1
 
-    Remote Debugging with PyCharm for OpenStack.md
+    Remote Debugging with PyCharm for OpenStack.rst
 
