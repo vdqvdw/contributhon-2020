@@ -1,10 +1,10 @@
-.. _development_setup_guide:
+.. _gyuseok-jung:
 
 ==============================
-개발환경 설정 가이드
+Gyuseok Jung
 ==============================
 
 .. toctree::
    :maxdepth: 1
 
-   vscode-setting.rst
+   first-issue.rst
